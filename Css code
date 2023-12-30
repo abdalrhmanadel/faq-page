@@ -551,3 +551,8 @@ color: #93C1F9;
     justify-content: center; align-items: center; 
     display: inline-flex
 }
+.element{
+position: absolute;
+right: 0px;
+top: 1846px;
+}

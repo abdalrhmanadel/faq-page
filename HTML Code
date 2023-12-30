@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>faq</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Css code.css">
 </head>
 <body>
     <nav>
@@ -94,12 +94,23 @@
         </div>
     </nav>
 
-
+    <div class="element">
+      <svg xmlns="http://www.w3.org/2000/svg" width="580" height="619" viewBox="0 0 580 619" fill="none">
+        <path d="M25.0461 141.268C86.4224 70.7806 207.628 161.97 383.25 122.061C535.358 87.4787 544.109 -4.37809 665.641 0.176955C754.431 3.48723 851.183 54.755 904.356 144.072C962.996 242.551 941.679 342.81 935.695 367.139C908.983 476.263 829.697 533.826 801.727 553.487C686.487 634.44 557.173 620.254 495.135 613.479C262.099 587.957 12.6133 421.583 1.50472 240.701C0.0283599 217.021 -2.65862 173.098 25.0461 141.268Z" fill="url(#paint0_linear_254_14688)"/>
+        <defs>
+          <linearGradient id="paint0_linear_254_14688" x1="609.823" y1="-145.173" x2="375.582" y2="560.635" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CFE9FF"/>
+            <stop offset="1" stop-color="#DEEEFE"/>
+          </linearGradient>
+        </defs>
+      </svg>
+  </div>
+  
 
 
 
     <div style="width: 100%; height: 100%; position: relative; background: white">
-        <div style="width: 1571px; height: 673px; left: -50px; top: 50px; position: absolute">
+        <div style="width: 100%; height: 673px; left: -50px; top: 50px; position: absolute">
             <div style="width: 554px; height: 416px; left: 930px; top: 257px; position: absolute">
   <div class="title">Frequently Asked Questions</div>
   <div class="sec">Answers at your fingertips. Explore our comprehensive FAQs for quick solutions to common queries, ensuring a seamless healthcare experience.</div>
@@ -122,10 +133,11 @@
                                 <div class="firstboxtext">How do I search for a doctor on your platform?</div>
                                 <div class="firstboxtext2">To find a doctor, simply enter your location, desired specialty, and browse through the profiles of available healthcare professionals.</div>
                         </div>
-                        <div class="square" style="width: 937.95px; height: 671.35px; background: linear-gradient(3deg, #CFE9FF 0%, #DEEEFE 100%)">
+                        <!-- <div class="square" style="width: 937.95px; height: 671.35px; background: linear-gradient(3deg, #CFE9FF 0%, #DEEEFE 100%)">
 
-                        </div>
-                        
+                        </div> -->
+
+                      
                         
                         <div class="secondbox">
                             <div class="firstbox">
